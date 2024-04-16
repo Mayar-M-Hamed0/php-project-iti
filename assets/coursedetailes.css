@@ -1,0 +1,15 @@
+body{
+    background-color: #eee;
+}
+.swiper-button-next:after,
+.swiper-button-prev:after{
+    color: #fff;
+    background-color: rgb(102, 102, 235);
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 50%;
+}
